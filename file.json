@@ -1,12 +1,13 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.2",
 //link for server update
-"Url":"https://github.com/MGThingyan/Home/raw/main/mm.zip" ,
+"Url":"https://github.com/MGThingyan/Home/raw/main/nen2.zip" ,
 "Changelog":"
 Latest update 1/11/2022
-TRUE No Pro
-DTAC No Pro
+SG.TH Severe 
+TH TRUE No Pro
+TH DTAC No Pro
 Edit the TRUE file.
 Edit DTAC files
 Add function to page load
