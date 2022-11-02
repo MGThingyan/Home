@@ -1,8 +1,8 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.3",
+"Version":"1.4",
 //link for server update
-"Url":"https://github.com/MGThingyan/Home/raw/main/zip.zip" ,
+"Url":"https://github.com/MGThingyan/Home/raw/main/vv.zip" ,
 "Changelog":"
 Latest update 1/11/2022
 
@@ -15,8 +15,10 @@ TH DTAC No Pro
 Edit the TRUE file.
 Edit DTAC files
 Add function to page load
+
 အတ္ဒိပ္​ေပးရန္ OK ကိုနိပ္ရန္
-ေက်းဇူတင္ပါတယ္ THINGYAN VPN 
+
+ေက်းဇူတင္ပါတယ္
 ",
  
  
