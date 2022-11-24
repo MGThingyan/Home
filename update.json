@@ -1,64 +1,60 @@
-
 {
    "files": [    
 
 
 
 
+
+         
 {
-         "name": "Config-version 1.1",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/Congfig.ovpn"
-      }
-,
-{
-         "name": "TH-True-Dtac01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/t1.ovpn"
+         "name": "TH-True-01",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 
 {
-         "name": "TH-True-Dtac02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/t2.ovpn"
+         "name": "TH-True-02",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/t3.ovpn"
+         "name": "TH-True-03",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac04",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/t4.ovpn"
+         "name": "TH-True-04",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac05",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/t5.ovpn"
+         "name": "TH-True-05",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "SG-True-Dtac01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/s1.ovpn"
+         "name": "TH-Dtac-01",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "SG-True-Dtac02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/s2.ovpn"
+         "name": "TH-Dtac-02",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "SG-True-Dtac03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/s3.ovpn"
+         "name": "TH-Dtac-03",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 ,
 {
-         "name": "SG-True-Dtac04",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/s4.ovpn"
+         "name": "TH-Dtac-04",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
       ,
       {
-         "name": "SG-True-Dtac05",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VIP/main/s5.ovpn"
+         "name": "TH-Dtac-05",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/d1.ovpn"
       }
 
 
@@ -70,10 +66,10 @@
 🟢IOS+Android+PC
 🏅VIP Face+Youtube
 🏅VIP Game+Online
-🏅VIP တစ်လမှ၅၀ဘတ်>>
-🎁ကြိုက်ရာသုံးအကန့်သတ်မရှိ
-📤ဖိုင်တင်ရက် 18/11/2022
-\n\nFb: Ta Tha Na",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":1
+🏅VIP တစ္လစာ 50 ဘတ္>>
+🎁ႀကိဳက္ရာသုံးအကန႔္သတ္မရွိ
+📤ဖိုင္တင္ရက္ 18/11/2022
+\n\nFb: THINGYAN",
+"title":"ဖိုင္အသစ္အပ္ဒိတ္ပါ " ,
+   "version":1.1
 }
