@@ -1,8 +1,8 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"14",
+"Version":"13",
 //link for server update
-"Url":"https://github.com/MGThingyan/Home/blob/main/lol.zip" ,
+"Url":"https://github.com/MGThingyan/Home/raw/main/lol.zip" ,
 "Changelog":"
 Latest update 15/12/2022
 
