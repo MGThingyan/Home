@@ -28,12 +28,17 @@
       }
 ,
 {
-         "name": "TH-Dtac-GAME001",
+         "name": "TH-Dtac-GAME.01",
          "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/TH-GAME-001.ovpn"
       },
       {
-         "name": "TH-Dtac-GAME002",
+         "name": "TH-Dtac-GAME.02",
          "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/TH-GAME-002.ovpn"
+      }
+,
+{
+         "name": "TH-Vip-01",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/TH-VIP-01.ovpn"
       }
 
 
@@ -46,8 +51,8 @@
 🏅VIP Game+Online
 🏅VIP  50 >>
 🎁
-📤 20/01/2023
+📤 27/01/2023
 \n\nFb: THINGYAN",
 "title":" " ,
-   "version":5
+   "version":6
 }
