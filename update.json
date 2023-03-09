@@ -52,11 +52,10 @@
          "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/ThinGyan.ovpn"
 
        }
-           "name": "TH-Dtac-vip.04",
-           "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/TH-VIP-01.ovpn"
+          "name": "SG-Dtac-True-vip.04",
+          "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/Thingyan-SG.ovpn"
 
-
-         }
+        
    ],
 "message":"
 🔵DTAC NOPRO
@@ -71,5 +70,5 @@ SG SEVERE VIP VPS
 📤 9/03/2023
 \n\nFb: THINGYAN",
 "title":" " ,
-   "version":21
+   "version":22
 }
