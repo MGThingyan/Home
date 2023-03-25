@@ -49,13 +49,13 @@
 ,
 {
          "name": "TH-Dtac-vip.04",
-         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/ThinGyan.ovpn"
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/141.ovpn"
 
        }
 
 ,
 {        "name": "SG-Dtac-True-vip.05",
-         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/Thingyan-SG.ovpn"
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/sg178.ovpn"
 
       }
         
@@ -73,5 +73,5 @@ SG SEVERE VIP VPS
 📤 25/03/2023
 \n\nFb: THINGYAN",
 "title":" " ,
-   "version":24
+   "version":25
 }
