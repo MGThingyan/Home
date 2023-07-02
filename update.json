@@ -60,9 +60,10 @@
          "name": "TH-Dtac-vip.11",
          "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/TG-2.ovpn"
 ,
-{   
-       } 
-  
+{
+   
+     } 
+
 ,
 {
          "name": "TH-Dtac-vip.12",
@@ -71,12 +72,13 @@
 {
 
  
-        }
+     }
 ,
 {
-        "name": "TH-Dtac-vip.13",
-         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/Thingyan-004.ovp"  
-      }          
+         "name": "TH-Dtac-vip.13",
+         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/Thingyan-004.ovp"
+      }
+      
    ],
 "message":"
 🇹🇭 DTAC NOPRO
@@ -91,5 +93,5 @@
 📤ဖိုင္တင္ရက္ 02/07/2023
 \n\nFb: THINGYAN",
 "title":"သတိေပးခ်က္#ယခုလူႀကီးမင္း Update ဆိုတဲ့စာေပၚလာရင္ခ်က္ခ်င္နိပ္ပါ လိုင္းအားပို႔မိုေကာင္းေအာင္ ဖိုင္အသစ္ရေအာင္ Update နိပ္ပါ " ,
-   "version":39
+   "version":40
 }
