@@ -81,14 +81,14 @@
        "name": "TH-Dtac-vip.15",
        "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/203.ovpn"
      }
-
 ,
-{       "name": "TH-Dtac-vip.16",
+{
+        "name": "TH-Dtac-vip.16",
         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/lol.ovpn"
 
-'      }
-{  
-        "name": "TH-Dtac-vip.17",
+     }
+'
+{       "name": "TH-Dtac-vip.17",
         "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/21.09.2023.ovpn"
    
    
@@ -107,5 +107,5 @@
 📤ဖိုင္တင္ရက္ 21/09/2023
 \n\nFb:THINGYAN",
 "title":"Update ဆိုတဲ့စာေပၚလာရင္ခ်က္ခ်င္နိပ္ပါ လိုင္းအားပို႔မိုေကာင္းေအာင္ ဖိုင္အသစ္ရေအာင္ Update နိပ္ပါ " ,
-   "version":61
+   "version":62
 }
