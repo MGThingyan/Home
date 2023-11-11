@@ -138,7 +138,13 @@
    "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/laza.ovpn"
 
      }
-   
+,
+{
+   "name": "TH-DTAC-LAZADA.003",
+   "url": "https://raw.githubusercontent.com/MGThingyan/Home/main/LAZADA03.ovpn"
+
+    }
+      
    ],
 "message":"
 🇹🇭 DTAC NOPR
@@ -154,8 +160,8 @@
 🇹🇭TH-SEVER-ReadyIDC 
 🇹🇭  DTAC LAZADA 90 Day
 🎁အကတ္သန္႔မရိွ အင္တာနက္ 
-📤ဖိုင္တင္ရက္ 05/11/2023
+📤ဖိုင္တင္ရက္ 11/11/2023
 \n\nFACEBOOK:THINGYAN",
-"title":"File version 84 ",
-   "version":84
+"title":"File version 85 ",
+   "version":85
 }
